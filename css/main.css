@@ -9,6 +9,27 @@ html {
   font-family: "Poppins", sans-serif;
 }
 
+.text {
+  width: 80%;
+  margin: 50px auto;
+  text-align: center;
+}
+.text__title--normal {
+  font-size: 2.3rem;
+  font-weight: 200;
+  color: #4c4e61;
+}
+.text__title--bold {
+  font-size: 2.3rem;
+  font-weight: 600;
+  color: #4c4e61;
+}
+.text__paragraph {
+  margin-top: 20px;
+  font-size: 1.5rem;
+  color: #a3a5ae;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;

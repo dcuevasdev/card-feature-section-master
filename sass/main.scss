@@ -1,6 +1,27 @@
 @import "var-and-minxins";
 @import "globals";
 
+.text {
+  width: 80%;
+  margin: 50px auto;
+  text-align: center;
+  &__title--normal {
+    font-size: 2.3rem;
+    font-weight: 200;
+    color: $very-dark-blue;
+  }
+  &__title--bold {
+    font-size: 2.3rem;
+    font-weight: 600;
+    color: $very-dark-blue;
+  }
+  &__paragraph {
+    margin-top: 20px;
+    font-size: 1.5rem;
+    color: $grayish-blue;
+  }
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
