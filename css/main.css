@@ -9,6 +9,10 @@ html {
   font-family: "Poppins", sans-serif;
 }
 
+body {
+  background-color: #fafafa;
+}
+
 .text {
   width: 80%;
   margin: 50px auto;
@@ -28,6 +32,49 @@ html {
   margin-top: 20px;
   font-size: 1.5rem;
   color: #a3a5ae;
+}
+
+.cards {
+  width: 100%;
+  padding: 10px;
+}
+.cards__card {
+  width: 315px;
+  height: 220px;
+  margin: 30px auto;
+  padding: 25px;
+  border-radius: 5px;
+  box-shadow: 0px 15px 20px 0px #dde5f0;
+  background-color: #ffffff;
+}
+.cards__card h2 {
+  margin-bottom: 5px;
+  font-size: 2rem;
+  font-weight: 600;
+  color: #4c4e61;
+}
+.cards__card p {
+  line-height: 140%;
+  font-size: 1.5rem;
+  font-weight: 200;
+  color: #a3a5ae;
+}
+.cards__card figure {
+  padding-left: calc(100% - 64px);
+  padding-top: 25px;
+}
+
+.card--one {
+  border-top: 4px solid #45d3d3;
+}
+.card--two {
+  border-top: 4px solid #ea5353;
+}
+.card--three {
+  border-top: 4px solid #fcaf4a;
+}
+.card--four {
+  border-top: 4px solid #549ef2;
 }
 
 .attribution {
