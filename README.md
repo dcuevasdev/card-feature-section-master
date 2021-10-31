@@ -22,7 +22,7 @@
 
 ## 🚀 Deploy
 
-En el siguiente link puedes ver la [web del challenge](https://dcuevas24.github.io/Social-proof-section/ "web del challenge")
+En el siguiente link puedes ver la [web del challenge](https://dcuevas24.github.io/card-feature-section-master/ "web del challenge")
 
 ### Desktop 💻
 
